@@ -1,0 +1,34 @@
+
+body {
+    background-image: url("./sephiroth-final-fantasy-7-remake-uhdpaper.com-4K-29.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    color: azure;
+}
+
+h3 {
+    color: azure;
+}
+
+.logo {
+    position: fixed;
+    right: 90px;
+    top: 30px;
+}
+
+.sephiroth {
+    position: fixed;
+    left: -110px;
+    top: -16.5px;
+    background-attachment: fixed;
+    pointer-events: none;
+}
+
+
